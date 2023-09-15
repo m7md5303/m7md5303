@@ -3,7 +3,7 @@
 
 ![verilog](https://img.shields.io/badge/-verilog-05122A?style=flat&logo=verilog)&nbsp;
 ![C](https://img.shields.io/badge/-C-05122A?style=flat&logo=C)&nbsp;
-![C++](https://img.shields.io/badge/-C++-05122A?style=flat&logo=C++)&nbsp;
+![Cpp](https://img.shields.io/badge/-Cpp-05122A?style=flat&logo=Cpp)&nbsp;
 ![CSS](https://img.shields.io/badge/-CSS-05122A?style=flat&logo=CSS3&logoColor=1572B6)&nbsp;
 ![React.js](https://img.shields.io/badge/-React-05122A?style=flat&logo=react)
 <!--
